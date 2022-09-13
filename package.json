@@ -1,0 +1,7 @@
+{
+  "name": "eve",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
